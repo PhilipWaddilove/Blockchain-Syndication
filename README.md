@@ -3,10 +3,6 @@
 
 Code developed by Arthur Moran, Ben Fischler, Eli Holden, Nika Chan and Phil Waddilove
 
-<p align="center">
-  <img src="Images/SYN3.png" />
-</p>
-
 ### Table of Contents
 1. [Introduction](#Introduction)
 2. [Reverse Auction Smart Contract to set the Borrower's Interest Rate](#auction)
