@@ -1,4 +1,4 @@
-# Project 3: Loan Syndication Smart Contracts
+# Loan Syndication on Blockchain (using Smart Contracts)
 ### Tokenizing syndicated loans using smart contracts on the ethereum blockchain
 
 Code developed by Arthur Moran, Ben Fischler, Eli Holden, Nika Chan and Phil Waddilove
